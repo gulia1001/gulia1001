@@ -1,4 +1,4 @@
-<div align="center">
+<div align="left">
   <h1>Hi there, I'm Guls! 👋</h1>
   <h3>Data & AI Engineer | Building Scalable Pipelines & Intelligent Systems</h3>
   <img src="https://komarev.com/ghpvc/?username=gulia1001&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
